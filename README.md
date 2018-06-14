@@ -1,3 +1,3 @@
 ddanno
 ===============
-This is a skeleton readme made by pymkcli
+Send annotations into datadog event stream
